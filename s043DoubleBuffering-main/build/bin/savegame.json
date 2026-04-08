@@ -1,0 +1,11 @@
+{
+  "head": {"x": 20, "y": 10},
+  "dir": "STOP",
+  "fruit": {"x": 8, "y": 8},
+  "score": 0,
+  "difficulty": 1,
+  "tail": [
+  ],
+  "bombs": [
+  ]
+}

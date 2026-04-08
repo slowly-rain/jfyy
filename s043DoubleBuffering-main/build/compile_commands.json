@@ -1,0 +1,62 @@
+[
+{
+  "directory": "D:/VS Code/s043DoubleBuffering-main/build",
+  "command": "D:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\snake.dir\\src\\main.cpp.obj -c \"D:\\VS Code\\s043DoubleBuffering-main\\src\\main.cpp\"",
+  "file": "D:/VS Code/s043DoubleBuffering-main/src/main.cpp",
+  "output": "CMakeFiles/snake.dir/src/main.cpp.obj"
+},
+{
+  "directory": "D:/VS Code/s043DoubleBuffering-main/build",
+  "command": "D:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\snake.dir\\src\\common.cpp.obj -c \"D:\\VS Code\\s043DoubleBuffering-main\\src\\common.cpp\"",
+  "file": "D:/VS Code/s043DoubleBuffering-main/src/common.cpp",
+  "output": "CMakeFiles/snake.dir/src/common.cpp.obj"
+},
+{
+  "directory": "D:/VS Code/s043DoubleBuffering-main/build",
+  "command": "D:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\snake.dir\\src\\core\\GameLoop.cpp.obj -c \"D:\\VS Code\\s043DoubleBuffering-main\\src\\core\\GameLoop.cpp\"",
+  "file": "D:/VS Code/s043DoubleBuffering-main/src/core/GameLoop.cpp",
+  "output": "CMakeFiles/snake.dir/src/core/GameLoop.cpp.obj"
+},
+{
+  "directory": "D:/VS Code/s043DoubleBuffering-main/build",
+  "command": "D:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\snake.dir\\src\\core\\StateMachine.cpp.obj -c \"D:\\VS Code\\s043DoubleBuffering-main\\src\\core\\StateMachine.cpp\"",
+  "file": "D:/VS Code/s043DoubleBuffering-main/src/core/StateMachine.cpp",
+  "output": "CMakeFiles/snake.dir/src/core/StateMachine.cpp.obj"
+},
+{
+  "directory": "D:/VS Code/s043DoubleBuffering-main/build",
+  "command": "D:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\snake.dir\\src\\systems\\InputSystem.cpp.obj -c \"D:\\VS Code\\s043DoubleBuffering-main\\src\\systems\\InputSystem.cpp\"",
+  "file": "D:/VS Code/s043DoubleBuffering-main/src/systems/InputSystem.cpp",
+  "output": "CMakeFiles/snake.dir/src/systems/InputSystem.cpp.obj"
+},
+{
+  "directory": "D:/VS Code/s043DoubleBuffering-main/build",
+  "command": "D:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\snake.dir\\src\\systems\\RenderSystem.cpp.obj -c \"D:\\VS Code\\s043DoubleBuffering-main\\src\\systems\\RenderSystem.cpp\"",
+  "file": "D:/VS Code/s043DoubleBuffering-main/src/systems/RenderSystem.cpp",
+  "output": "CMakeFiles/snake.dir/src/systems/RenderSystem.cpp.obj"
+},
+{
+  "directory": "D:/VS Code/s043DoubleBuffering-main/build",
+  "command": "D:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\snake.dir\\src\\systems\\TimeSystem.cpp.obj -c \"D:\\VS Code\\s043DoubleBuffering-main\\src\\systems\\TimeSystem.cpp\"",
+  "file": "D:/VS Code/s043DoubleBuffering-main/src/systems/TimeSystem.cpp",
+  "output": "CMakeFiles/snake.dir/src/systems/TimeSystem.cpp.obj"
+},
+{
+  "directory": "D:/VS Code/s043DoubleBuffering-main/build",
+  "command": "D:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\snake.dir\\src\\gameplay\\Snake.cpp.obj -c \"D:\\VS Code\\s043DoubleBuffering-main\\src\\gameplay\\Snake.cpp\"",
+  "file": "D:/VS Code/s043DoubleBuffering-main/src/gameplay/Snake.cpp",
+  "output": "CMakeFiles/snake.dir/src/gameplay/Snake.cpp.obj"
+},
+{
+  "directory": "D:/VS Code/s043DoubleBuffering-main/build",
+  "command": "D:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\snake.dir\\src\\gameplay\\Food.cpp.obj -c \"D:\\VS Code\\s043DoubleBuffering-main\\src\\gameplay\\Food.cpp\"",
+  "file": "D:/VS Code/s043DoubleBuffering-main/src/gameplay/Food.cpp",
+  "output": "CMakeFiles/snake.dir/src/gameplay/Food.cpp.obj"
+},
+{
+  "directory": "D:/VS Code/s043DoubleBuffering-main/build",
+  "command": "D:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\snake.dir\\src\\persistence\\SaveSystem.cpp.obj -c \"D:\\VS Code\\s043DoubleBuffering-main\\src\\persistence\\SaveSystem.cpp\"",
+  "file": "D:/VS Code/s043DoubleBuffering-main/src/persistence/SaveSystem.cpp",
+  "output": "CMakeFiles/snake.dir/src/persistence/SaveSystem.cpp.obj"
+}
+]
